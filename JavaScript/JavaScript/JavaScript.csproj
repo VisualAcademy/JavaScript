@@ -67,6 +67,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="01_JavaScript\JavaScript.js" />
+    <Content Include="02_VisualStudioCode\VisualStudioCode.txt" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
