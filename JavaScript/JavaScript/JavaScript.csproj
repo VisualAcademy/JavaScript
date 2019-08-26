@@ -73,6 +73,7 @@
     <Content Include="Algorithms\01_01_SumAlgorithm\SumAlgorithm.js" />
     <Content Include="Algorithms\JavaScriptAlgorithm.js" />
     <Content Include="Algorithms\학습용 쉬운 알고리즘 12개.txt" />
+    <Content Include="ReadMe.txt" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
