@@ -69,6 +69,10 @@
   <ItemGroup>
     <Content Include="01_JavaScript\JavaScript.js" />
     <Content Include="02_VisualStudioCode\VisualStudioCode.txt" />
+    <Content Include="03_HelloWorld\HelloWorld.js" />
+    <Content Include="Algorithms\01_01_SumAlgorithm\SumAlgorithm.js" />
+    <Content Include="Algorithms\JavaScriptAlgorithm.js" />
+    <Content Include="Algorithms\학습용 쉬운 알고리즘 12개.txt" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
