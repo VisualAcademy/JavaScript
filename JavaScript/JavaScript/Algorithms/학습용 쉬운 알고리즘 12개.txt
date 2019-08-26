@@ -5,8 +5,8 @@
 "타이핑 및 결과 확인 그리고 이해해려고 노력 with (디버깅/디버거)"
 
 - 합계 알고리즘: SumAlgorithm.js 수열, ..., 
-- 개수 알고리즘: CountAlgorithm.c, CountAlgorithm.java, CountAlgorithm.js, ...
-- 평균 알고리즘: AverageAlgorithm.c
+- 개수 알고리즘: CountAlgorithm.js, CountAlgorithm.java, CountAlgorithm.js, ...
+- 평균 알고리즘: AverageAlgorithm.js
 - 최댓값 알고리즘: MaxAlgorithm, 결괏값, 변숫값
 - 최솟값 알고리즘: MinAlgorithm
 - 근삿값 알고리즘: NearAlgorithm, 가까운 값
