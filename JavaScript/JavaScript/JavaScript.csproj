@@ -75,6 +75,9 @@
     <Content Include="Algorithms\01_01_SumAlgorithm\SumAlgorithm.js" />
     <Content Include="Algorithms\02_01_CountAlgorithm\CountAlgorithm.js" />
     <Content Include="Algorithms\03_01_AverageAlgorithm\AverageAlgorithm.js" />
+    <Content Include="Algorithms\04_01_MaxAlgorithm\MaxAlgorithm.js" />
+    <Content Include="Algorithms\05_01_MinAlgorithm\MinAlgorithm.js" />
+    <Content Include="Algorithms\06_01_NearAlgorithm\NearAlgorithm.js" />
     <Content Include="Algorithms\JavaScriptAlgorithm.js" />
     <Content Include="Algorithms\학습용 쉬운 알고리즘 12개.txt" />
     <Content Include="ReadMe.txt" />
