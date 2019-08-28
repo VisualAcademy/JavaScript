@@ -15,7 +15,7 @@
                 rankings[i]++; // RANK: 나보다 큰 점수가 나오면 순위 1증가
             }            
         }
-1   }
+    }
 
     //[3] Output
     for (let i = 0; i < N; i++) {
