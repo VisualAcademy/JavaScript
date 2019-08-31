@@ -78,6 +78,9 @@
     <Content Include="Algorithms\04_01_MaxAlgorithm\MaxAlgorithm.js" />
     <Content Include="Algorithms\05_01_MinAlgorithm\MinAlgorithm.js" />
     <Content Include="Algorithms\06_01_NearAlgorithm\NearAlgorithm.js" />
+    <Content Include="Algorithms\07_01_RankAlgorithm\RankAlgorithm.js" />
+    <Content Include="Algorithms\08_01_SortAlgorithm\SortAlgorithm.js" />
+    <Content Include="Algorithms\09_01_SearchAlgorithm\SearchAlgorithm.js" />
     <Content Include="Algorithms\JavaScriptAlgorithm.js" />
     <Content Include="Algorithms\학습용 쉬운 알고리즘 12개.txt" />
     <Content Include="ReadMe.txt" />
