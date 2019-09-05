@@ -83,6 +83,7 @@
     <Content Include="Algorithms\09_01_SearchAlgorithm\SearchAlgorithm.js" />
     <Content Include="Algorithms\10_01_MergeAlgorithm\MergeAlgorithm.js" />
     <Content Include="Algorithms\11_01_ModeAlgorithm\ModeAlgorithm.js" />
+    <Content Include="Algorithms\12_01_GroupAlgorithm\GroupAlgorithm.js" />
     <Content Include="Algorithms\JavaScriptAlgorithm.js" />
     <Content Include="Algorithms\학습용 쉬운 알고리즘 12개.txt" />
     <Content Include="ReadMe.txt" />
