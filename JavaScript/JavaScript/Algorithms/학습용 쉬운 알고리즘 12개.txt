@@ -18,16 +18,13 @@
 - 그룹 알고리즘: GroupAlgorithm.js
 
 개발 도구:
-
 - 최신의 Visual Studio
 - 최신의 Visual Studio Code
 
 기타 알고리즘 강좌:
-
 - 참고
 - 구강좌
 - 복습
 
 강의 소스:
-
-- https://github.com/VisualAcademy
+- https://github.com/VisualAcademy/JavaScript
