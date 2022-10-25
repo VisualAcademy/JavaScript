@@ -1,3 +1,4 @@
+// VisualAcademy Docs: Algorithms
 //[?] 정렬되어 있는 데이터를 이진 검색(이분 탐색)을 사용하여 반씩 나눠서 검색
 
 // 검색 알고리즘(Search Algorithm): 주어진 데이터에서 특정 데이터 찾기
@@ -33,3 +34,4 @@
         console.log("찾지 못했습니다.");
     }    
 })();
+
