@@ -88,6 +88,7 @@
     <Content Include="31_Algorithms\JavaScriptAlgorithm.js" />
     <Content Include="31_Algorithms\학습용 쉬운 알고리즘 12개.txt" />
     <Content Include="ReadMe.txt" />
+    <Content Include="rectangle_area.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

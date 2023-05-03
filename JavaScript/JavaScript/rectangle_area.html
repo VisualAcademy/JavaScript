@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>직사각형 넓이 구하기</title>
+    <script>
+        function rectangle_area(width, height) {
+            // 직사각형의 넓이를 계산하는 함수
+            return width * height; // 가로 * 세로
+        }
+
+        function calculateArea() {
+            // 사용자로부터 직사각형의 가로와 세로 길이를 입력받음
+            var width = parseInt(document.getElementById("width").value);
+            var height = parseInt(document.getElementById("height").value);
+
+            // 계산된 넓이를 출력
+            document.getElementById("result").innerHTML = "직사각형의 넓이: " + rectangle_area(width, height);
+        }
+    </script>
+</head>
+<body>
+    <h1>직사각형 넓이 구하기</h1>
+    <p>직사각형의 가로와 세로 길이를 입력하세요:</p>
+    <label for="width">가로: </label>
+    <input type="number" id="width">
+    <br>
+    <label for="height">세로: </label>
+    <input type="number" id="height">
+    <br><br>
+    <button onclick="calculateArea()">넓이 계산</button>
+    <p id="result"></p>
+</body>
+</html>
